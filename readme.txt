@@ -1,1 +1,0 @@
-Projeto em HTML e CSS - Web Curriculo do Curso Origamid.
